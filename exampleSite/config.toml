@@ -1,5 +1,5 @@
 baseURL = "http://goodgodfather.co"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
