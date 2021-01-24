@@ -3,6 +3,8 @@ title: Sean Lewis
 email: goodgodfathermusic@gmail.com
 bg_image: images/featue-bg.jpg
 social:
+- icon: rumble
+  link: https://rumble.com/register/Goodgodfather/
 - icon: minds
   link: https://www.minds.com/register?referrer=GoodGodFather
 - icon: gab
